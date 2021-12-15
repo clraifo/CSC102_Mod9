@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    background-image: linear-gradient(#cceeff, #80d4ff);
+}
+
+table th {
+
+    text-align: left;
+}
+
+table td {
+
+    
+    border: 2px solid #1a1a1a;
+    padding: 3px 128px 
+    
+}
